@@ -1,2 +1,2 @@
 # Mamba
-A template for better python. A base that combines Bython+Codon+Pyright into one template. 
+A template for better python. A base that combines Bython+Codoninto one template. 
